@@ -1,0 +1,13 @@
+h1{
+    color:blue;
+}
+p{
+    text-align:center;
+}
+h3, #h1red{
+    color:red;
+}
+.purple{
+    color:purple;
+}
+
