@@ -1,0 +1,25 @@
+body{
+    text-align: justify; text-align: center;
+    border: 5px solid powderblue;
+    padding: 30px;
+    background-image: url('jpeg-home.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    background-color: lawngreen;
+}
+p{
+    color: lightcoral;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#C4{  
+    background-color: yellow;
+    }
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    }
